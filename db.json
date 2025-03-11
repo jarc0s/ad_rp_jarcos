@@ -1,4 +1,5 @@
 {
+  "list_a": {
     "addresses": {
       "420385345": {
         "id": 420385345,
@@ -133,7 +134,11 @@
       {
         "type": "highlights",
         "title": "Donde más pides",
-        "addresses_ids": [420385345, 422979346, 425642533],
+        "addresses_ids": [
+          420385345,
+          422979346,
+          425642533
+        ],
         "countries": null
       },
       {
@@ -165,3 +170,4 @@
       }
     ]
   }
+}
