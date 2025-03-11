@@ -1,0 +1,167 @@
+{
+    "addresses": {
+      "420385345": {
+        "id": 420385345,
+        "application_user_id": 464837756,
+        "address": "Doctor Arturo Melo 4443",
+        "active": false,
+        "lat": -34.7249348,
+        "lng": -58.3976958,
+        "description": "depto 1ero A•",
+        "tag": "Oficina Rappi",
+        "city": {
+          "id": 183,
+          "city": "Adrogue",
+          "lat": -34.80028,
+          "lng": -58.38959,
+          "country_id": 7,
+          "description": "Ingresa tu dirección ",
+          "index": null
+        },
+        "city_id": 183,
+        "country": "AR",
+        "zip_code": "B1823",
+        "zone": {
+          "id": 141,
+          "name": "Bs As Sur Lanus oeste"
+        },
+        "count_orders": 1,
+        "lastorder": 0,
+        "suggested_address": false,
+        "updated_at": "2025-02-20 19:25:24",
+        "need_refinement": false,
+        "instructions": "",
+        "delivery_point": 1,
+        "title": "Oficina Rappi",
+        "subtitle": "Doctor Arturo Melo 4443, Adrogue",
+        "address_type_id": 2,
+        "address_type": "OFFICE",
+        "extra_fields": [
+          {
+            "label": "Nombre del Edificio",
+            "field": "BUILDING_NAME",
+            "value": "Torre Central"
+          },
+          {
+            "label": "Nombre de la Empresa",
+            "field": "COMPANY_NAME",
+            "value": "Rappi"
+          }
+        ]
+      },
+      "422979346": {
+        "id": 422979346,
+        "application_user_id": 464837756,
+        "address": "Avenida del Libertador # 6350",
+        "active": false,
+        "lat": -34.552915913834,
+        "lng": -58.450695835054,
+        "description": "",
+        "tag": "Otro",
+        "city": {
+          "id": 19,
+          "city": "Buenos Aires",
+          "lat": -34.589591,
+          "lng": -58.439876,
+          "country_id": 7,
+          "description": "Ingresa tu dirección ",
+          "index": 1
+        },
+        "city_id": 19,
+        "country": "AR",
+        "zip_code": "C1428",
+        "zone": {
+          "id": 64,
+          "name": "Bs As CABA Belgrano - Colegiales"
+        },
+        "count_orders": 5,
+        "lastorder": 0,
+        "suggested_address": false,
+        "updated_at": "2024-12-31 19:42:20",
+        "need_refinement": false,
+        "instructions": "",
+        "delivery_point": 0,
+        "title": "Avenida del Libertador # 6350",
+        "subtitle": "Buenos Aires",
+        "address_type_id": 3,
+        "address_type": "HOTEL",
+        "extra_fields": [
+          {
+            "label": "Nombre del Hotel",
+            "field": "HOTEL_NAME",
+            "value": "Ferro Hotel"
+          }
+        ]
+      },
+      "425642533": {
+        "id": 425642533,
+        "application_user_id": 464837756,
+        "address": "Coronel Brandsen # 1269",
+        "active": true,
+        "lat": -37.322006243947,
+        "lng": -59.150752723217,
+        "description": "depto 2, porton gris sin numero",
+        "tag": "Casa",
+        "city": {
+          "id": 492,
+          "city": "Tandil",
+          "lat": -37.318242,
+          "lng": -59.126924,
+          "country_id": 7,
+          "description": "Ingresa tu dirección",
+          "index": null
+        },
+        "city_id": 492,
+        "country": "AR",
+        "zip_code": null,
+        "zone": null,
+        "count_orders": 22,
+        "lastorder": 0,
+        "suggested_address": false,
+        "updated_at": "2025-02-20 19:24:45",
+        "need_refinement": false,
+        "instructions": "",
+        "delivery_point": 0,
+        "title": "Casa",
+        "subtitle": "Coronel Brandsen # 1269, Tandil",
+        "address_type_id": 1,
+        "address_type": "HOUSE",
+        "extra_fields": []
+      }
+    },
+    "sections": [
+      {
+        "type": "highlights",
+        "title": "Donde más pides",
+        "addresses_ids": [420385345, 422979346, 425642533],
+        "countries": null
+      },
+      {
+        "type": "sorted_addresses",
+        "title": "Donde más pides",
+        "addresses_ids": [],
+        "countries": null
+      },
+      {
+        "type": "no_coverage",
+        "Title": "Fuera de cobertura",
+        "addresses_ids": [],
+        "countries": null
+      },
+      {
+        "type": "country",
+        "countries": [
+          {
+            "country": "Ar",
+            "tile": "Argentina",
+            "addresses_ids": []
+          },
+          {
+            "country": "Mx",
+            "tile": "México",
+            "addresses_ids": []
+          }
+        ]
+      }
+    ]
+  }
