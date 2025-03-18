@@ -1,1 +1,328 @@
-{"addresses":{"61347591":{"id":61347591,"subtitle":"Arenal Grande 2076","title":"Oficina","country":"UY"},"156099156":{"id":156099156,"active":false,"country":"CO","title":"Casa","subtitle":"Suba, Bogotá"},"160982676":{"id":160982676,"active":false,"country":"CO","title":"Casa","subtitle":"Rappi Bogota, Bogotá"},"163680410":{"id":163680410,"active":false,"country":"CO","title":"Oficina","subtitle":"36, Bogotá"},"199446043":{"id":199446043,"active":false,"country":"CO","title":"Pruebas 1","subtitle":"Calle 68 # 06 - 39, Bogotá"},"223275605":{"id":223275605,"active":false,"country":"MX","title":"Casa","subtitle":"Hacienda Peñuelas, Santa Fe"},"225044726":{"id":225044726,"active":false,"country":"MX","title":"Oficina","subtitle":"Avenida Cuauhtémoc 1400, Ciudad de México"},"230982114":{"id":230982114,"active":false,"country":"MX","title":"Calle Atlixco 94","subtitle":"Ciudad de México"},"231679791":{"id":231679791,"active":true,"country":"MX","title":"Casa","subtitle":"Hacienda Penuelas 58, Santa Fe"},"238028074":{"id":238028074,"active":false,"country":"MX","title":"Avenida Rio Churubusco 79","subtitle":"Ciudad de México"},"272763624":{"id":272763624,"active":false,"country":"MX","title":"Casa","subtitle":"Blvd. Miguel de Cervantes Saavedra 57a, Ciudad de México"},"275067012":{"id":275067012,"active":false,"country":"MX","title":"Calz Gral Mariano Escobedo 555","subtitle":"Ciudad de México"},"276478330":{"id":276478330,"active":false,"country":"MX","title":"Las Cruces 36","subtitle":"Ciudad de México"},"278231744":{"id":278231744,"active":false,"country":"MX","title":"Casa","subtitle":"Nápoles # 70, Cuauhtémoc"},"279270679":{"id":279270679,"active":false,"country":"MX","title":"Casa","subtitle":"Jesús María # 187b, Cuauhtémoc"},"279274011":{"id":279274011,"active":false,"country":"MX","title":"Pino Suárez José María Pino Suárez","subtitle":"Centro, Mexico City, CDMX, Mexico, Cuauhtémoc"},"279312196":{"id":279312196,"active":false,"country":"MX","title":"Mua palace","subtitle":"Las Cruces 36, Cuauhtémoc"},"387113511":{"id":387113511,"active":false,"country":"BR","title":"Oficina","subtitle":"R. Ten. Negrão, 90 - Itaim Bibi"},"390521482":{"id":390521482,"active":false,"country":"BR","title":"Casa","subtitle":"Av. Grande São Paulo - Parque Brasil, Diadema"},"390521569":{"id":390521569,"active":false,"country":"BR","title":"Casa","subtitle":"Viaduto Saioá # 7"},"390522225":{"id":390522225,"active":false,"country":"BR","title":"Pruebas","subtitle":"Rua Professor Dário Veloso, 36 - Vila Izabel"},"424502790":{"id":424502790,"active":false,"country":"AR","title":"Oficina","subtitle":"Avenida 24 de Septiembre # 1503"},"424502843":{"id":424502843,"active":false,"country":"AR","title":"Oficina","subtitle":"Adolfo Calle # 3390, Mendoza"},"427912725":{"id":427912725,"active":false,"country":"AR","title":"Casa","subtitle":"Av. Corrientes 5000, N3300NAU Posadas, Posadas"},"427913323":{"id":427913323,"active":false,"country":"AR","title":"Casa","subtitle":"Avenida Corrientes # 5041"},"884661465":{"id":884661465,"active":false,"country":"EC","title":"Casa","subtitle":"Francisco Londoño 353, Quito 170111, Quito"},"885190728":{"id":885190728,"active":false,"country":"EC","title":"Casa Judi","subtitle":"Francisco Londono 353, Quito"},"2109477208":{"id":2109477208,"active":false,"country":"MX","title":"Casa","subtitle":"Avenida Presidente Masaryk # 2, Ciudad de México"},"2119043878":{"id":2119043878,"active":false,"country":"MX","title":"Casa","subtitle":"Encanto 50, Santa Fe"},"2125013436":{"id":2125013436,"active":false,"country":"MX","title":"Casa","subtitle":"Las Cruces, Mexico City, CDMX, Mexico, Santa Fe"},"2151326209":{"id":2151326209,"active":false,"country":"MX","title":"Pruebas Address","subtitle":"Coapa, Santa Fe"},"8134558805":{"id":8134558805,"active":false,"country":"PE","title":"Casa","subtitle":"Av. Óscar R. Benavides 1566"}},"sections":[{"type":"horizontal_highlight_list","title":"Destacadas","enabled":true,"address_ids":[223275605,2151326209,885190728,163680410],"unused_tags":["Trabajo","Pareja"],"subtitle":"Elegir dirección","add_button":"Añadir etiqueta"},{"type":"vertical_list","title":"Direcciones Guardadas","enabled":true,"address_ids":[61347591,156099156,160982676,163680410,199446043,223275605,225044726,230982114,231679791,238028074,272763624,275067012,276478330,278231744,279270679,279274011,279312196,387113511,390521482,390521569,390522225,424502790,424502843,427912725,427913323,884661465,885190728,2109477208,2119043878,2125013436,2151326209,8134558805]},{"type":"vertical_list","title":"Mexico","enabled":true,"address_ids":[223275605,225044726,230982114,231679791,238028074,272763624,275067012,276478330,278231744,279270679,279274011,279312196,2109477208]},{"type":"vertical_list","title":"Fuera de Cobertura","enabled":false,"address_ids":[61347591,156099156,160982676,163680410,199446043,387113511,390521482,390521569,390522225,424502790,424502843,427912725,427913323,884661465,885190728,8134558805]}]}
+{
+    "addresses": {
+      "61347591": {
+        "id": 61347591,
+        "subtitle": "Arenal Grande 2076",
+        "title": "Oficina",
+        "country": "UY"
+      },
+      "156099156": {
+        "id": 156099156,
+        "active": false,
+        "country": "CO",
+        "title": "Casa",
+        "subtitle": "Suba, Bogotá"
+      },
+      "160982676": {
+        "id": 160982676,
+        "active": false,
+        "country": "CO",
+        "title": "Casa",
+        "subtitle": "Rappi Bogota, Bogotá"
+      },
+      "163680410": {
+        "id": 163680410,
+        "active": false,
+        "country": "CO",
+        "title": "Oficina",
+        "subtitle": "36, Bogotá"
+      },
+      "199446043": {
+        "id": 199446043,
+        "active": false,
+        "country": "CO",
+        "title": "Pruebas 1",
+        "subtitle": "Calle 68 # 06 - 39, Bogotá"
+      },
+      "223275605": {
+        "id": 223275605,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Hacienda Peñuelas, Santa Fe"
+      },
+      "225044726": {
+        "id": 225044726,
+        "active": false,
+        "country": "MX",
+        "title": "Oficina",
+        "subtitle": "Avenida Cuauhtémoc 1400, Ciudad de México"
+      },
+      "230982114": {
+        "id": 230982114,
+        "active": false,
+        "country": "MX",
+        "title": "Calle Atlixco 94",
+        "subtitle": "Ciudad de México"
+      },
+      "231679791": {
+        "id": 231679791,
+        "active": true,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Hacienda Penuelas 58, Santa Fe"
+      },
+      "238028074": {
+        "id": 238028074,
+        "active": false,
+        "country": "MX",
+        "title": "Avenida Rio Churubusco 79",
+        "subtitle": "Ciudad de México"
+      },
+      "272763624": {
+        "id": 272763624,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Blvd. Miguel de Cervantes Saavedra 57a, Ciudad de México"
+      },
+      "275067012": {
+        "id": 275067012,
+        "active": false,
+        "country": "MX",
+        "title": "Calz Gral Mariano Escobedo 555",
+        "subtitle": "Ciudad de México"
+      },
+      "276478330": {
+        "id": 276478330,
+        "active": false,
+        "country": "MX",
+        "title": "Las Cruces 36",
+        "subtitle": "Ciudad de México"
+      },
+      "278231744": {
+        "id": 278231744,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Nápoles # 70, Cuauhtémoc"
+      },
+      "279270679": {
+        "id": 279270679,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Jesús María # 187b, Cuauhtémoc"
+      },
+      "279274011": {
+        "id": 279274011,
+        "active": false,
+        "country": "MX",
+        "title": "Pino Suárez José María Pino Suárez",
+        "subtitle": "Centro, Mexico City, CDMX, Mexico, Cuauhtémoc"
+      },
+      "279312196": {
+        "id": 279312196,
+        "active": false,
+        "country": "MX",
+        "title": "Mua palace",
+        "subtitle": "Las Cruces 36, Cuauhtémoc"
+      },
+      "387113511": {
+        "id": 387113511,
+        "active": false,
+        "country": "BR",
+        "title": "Oficina",
+        "subtitle": "R. Ten. Negrão, 90 - Itaim Bibi"
+      },
+      "390521482": {
+        "id": 390521482,
+        "active": false,
+        "country": "BR",
+        "title": "Casa",
+        "subtitle": "Av. Grande São Paulo - Parque Brasil, Diadema"
+      },
+      "390521569": {
+        "id": 390521569,
+        "active": false,
+        "country": "BR",
+        "title": "Casa",
+        "subtitle": "Viaduto Saioá # 7"
+      },
+      "390522225": {
+        "id": 390522225,
+        "active": false,
+        "country": "BR",
+        "title": "Pruebas",
+        "subtitle": "Rua Professor Dário Veloso, 36 - Vila Izabel"
+      },
+      "424502790": {
+        "id": 424502790,
+        "active": false,
+        "country": "AR",
+        "title": "Oficina",
+        "subtitle": "Avenida 24 de Septiembre # 1503"
+      },
+      "424502843": {
+        "id": 424502843,
+        "active": false,
+        "country": "AR",
+        "title": "Oficina",
+        "subtitle": "Adolfo Calle # 3390, Mendoza"
+      },
+      "427912725": {
+        "id": 427912725,
+        "active": false,
+        "country": "AR",
+        "title": "Casa",
+        "subtitle": "Av. Corrientes 5000, N3300NAU Posadas, Posadas"
+      },
+      "427913323": {
+        "id": 427913323,
+        "active": false,
+        "country": "AR",
+        "title": "Casa",
+        "subtitle": "Avenida Corrientes # 5041"
+      },
+      "884661465": {
+        "id": 884661465,
+        "active": false,
+        "country": "EC",
+        "title": "Casa",
+        "subtitle": "Francisco Londoño 353, Quito 170111, Quito"
+      },
+      "885190728": {
+        "id": 885190728,
+        "active": false,
+        "country": "EC",
+        "title": "Casa Judi",
+        "subtitle": "Francisco Londono 353, Quito"
+      },
+      "2109477208": {
+        "id": 2109477208,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Avenida Presidente Masaryk # 2, Ciudad de México"
+      },
+      "2119043878": {
+        "id": 2119043878,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Encanto 50, Santa Fe"
+      },
+      "2125013436": {
+        "id": 2125013436,
+        "active": false,
+        "country": "MX",
+        "title": "Casa",
+        "subtitle": "Las Cruces, Mexico City, CDMX, Mexico, Santa Fe"
+      },
+      "2151326209": {
+        "id": 2151326209,
+        "active": false,
+        "country": "MX",
+        "title": "Pruebas Address",
+        "subtitle": "Coapa, Santa Fe"
+      },
+      "8134558805": {
+        "id": 8134558805,
+        "active": false,
+        "country": "PE",
+        "title": "Casa",
+        "subtitle": "Av. Óscar R. Benavides 1566"
+      }
+    },
+    "sections": [
+      {
+        "type": "horizontal_highlight_list",
+        "title": "Destacadas",
+        "enabled": true,
+        "address_ids": [
+          223275605,
+          2151326209,
+          885190728,
+          163680410
+        ],
+        "unused_tags": [
+          "Trabajo",
+          "Pareja"
+        ],
+        "subtitle": "Elegir dirección",
+        "add_button": "Añadir etiqueta"
+      },
+      {
+        "type": "vertical_list",
+        "title": "Direcciones Guardadas",
+        "enabled": true,
+        "address_ids": [
+          61347591,
+          156099156,
+          160982676,
+          163680410,
+          199446043,
+          223275605,
+          225044726,
+          230982114,
+          231679791,
+          238028074,
+          272763624,
+          275067012,
+          276478330,
+          278231744,
+          279270679,
+          279274011,
+          279312196,
+          387113511,
+          390521482,
+          390521569,
+          390522225,
+          424502790,
+          424502843,
+          427912725,
+          427913323,
+          884661465,
+          885190728,
+          2109477208,
+          2119043878,
+          2125013436,
+          2151326209,
+          8134558805
+        ]
+      },
+      {
+        "type": "vertical_list",
+        "title": "Mexico",
+        "enabled": true,
+        "address_ids": [
+          223275605,
+          225044726,
+          230982114,
+          231679791,
+          238028074,
+          272763624,
+          275067012,
+          276478330,
+          278231744,
+          279270679,
+          279274011,
+          279312196,
+          2109477208
+        ]
+      },
+      {
+        "type": "vertical_list",
+        "title": "Fuera de Cobertura",
+        "enabled": false,
+        "address_ids": [
+          61347591,
+          156099156,
+          160982676,
+          163680410,
+          199446043,
+          387113511,
+          390521482,
+          390521569,
+          390522225,
+          424502790,
+          424502843,
+          427912725,
+          427913323,
+          884661465,
+          885190728,
+          8134558805
+        ]
+      }
+    ]
+  }
